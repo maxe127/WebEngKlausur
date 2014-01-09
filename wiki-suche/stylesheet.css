@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+
+.header {
+	padding: 1em;
+	font-family: Verdana;
+}
+
+#form {
+#	margin-left: auto;
+#	margin-right: auto;
+#	text-align: center
+#}
+
+.centering {
+#	position: center; 
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 18px;
+#	padding: 100px;
+#	width: 50em;
+}
+
+.align-left {
+	text-align: left;
+	margin: auto;
+}
+
+label {
+	font-size: 12px;
+#	text-align: left;
+}
+
+form {
+	margin:auto;
+	width: 35em;
+#	padding-left: 2em;	
+#	padding-right: 2em;
+}
+
+		#go, #fulltext {
+			margin:0.5em;
+			font-size:18px;
+#			width:100px;
+#			height:25px;
+			border: solid 1px #aaa;
+			border-radius:5px;
+			box-shadow: 2px 2px 5px #888888;
+#			font-weight:bold;
+#			color:#555;
+		}
+		
+		#go:hover, #fulltext:hover {
+			border: solid 1px #777;
+			box-shadow: 4px 4px 5px #666666;
+			cursor: pointer;
+		}
+
+#search {
+	font-size: 18px;
+}
+
+a {
+	margin: 1em;
+}
