@@ -25,7 +25,7 @@ th {
 }
 
 td {
-	# white-space: pre-wrap;
+/*	white-space: pre-wrap; */
 	padding-top: 4px;
 	padding-bottom: 4px;
 	padding-left: 6px;
